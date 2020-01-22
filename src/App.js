@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          hu hu hu, the land of wine and beer and weed
+
         </a>
       </header>
     </div>
